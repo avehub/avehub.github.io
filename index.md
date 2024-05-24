@@ -4,38 +4,34 @@ layout: default
 
 ## 基础信息
 
-**年龄**   : 32
+年龄 : 32
 
-**电话**   : 18220651989
+电话 : 18220651989
 
-**微信**   : avetop
+微信 : avetop
 
-**邮箱**   : avework@outlook.com
+邮箱 : avework@outlook.com
 
-**住址**   : 西安·未央
+住址 : 西安·未央
 
-**github** : [我的GitHub](https://github.com/avehub)
+GIT : [GitHub](https://github.com/avehub)、[码云](https://gitee.com/avegit)
 
 
 ## 核心优势
 
-* **个人能力边界**
+* **能力边界**
 
 拥有10多年行业经验，一路犹如打怪升级从程序员->架构师->CTO，有从0到1搭建团队到项目上线完整历程，在线项目成功服务国内外2亿多用户；
-
 项目主要类型有大型电商平台、CRM、App、SaaS、BI、游戏、公众号、小程序、爬虫服务等。
 
-* **和他人的不同点**
+* **大有不同**
 
 擅长大型复杂项目，参与过多个从0到1的完整项目，熟悉从需求到落地全流程，并且在不断学习技术和完善知识体系；
-
 思考先行，技术只是手段不是目的，在遇到问题时习惯性用5W2H的方式分析问题背后原因，力争从根本上解决和优化存在问题；
-
 沟通协作，擅长与上下游各个角色沟通，会换位思考团队中不同角色面对问题的影响，避免团队内部人员内耗和公司之间低效协作；
-
 复盘总结，完成阶段性工作后会进行项目复盘，总结经验沉淀方法论，在允许的情况下话会分享给项目内部人员，并做的好人员进行表扬。
 
-* **雇佣我的好处**
+* **团队赋能**
 
 通过自动化流程、云原生技术等提高团队开发质量和效率，并制定代码规范标准，组织团队内部定期培训和技术分享会，以促进团队成员的技能提升。在项目前期会以过往经验和教训考虑非功能性需求，避免技术债务，项目中期紧盯项目进度，会根据进度情况适时调整资源和任务调度，直至项目成功投产。
 
@@ -43,98 +39,86 @@ layout: default
 ## 技能清单
 
 ```
-manage    ：Nacos Jenkins Walle Git SVN
-language  : PHP Golang Python Shell Vue JaveScript
+manage    ：Git SVN
+language  : PHP Golang Python Shell Vue JavaScript
 database  : Mysql SQLite PostgreSQL MongoDB
 cache     : Redis Memcache
 middleware: Kafka Swoole Zookeeper OSS
-
+other     : Docker Jenkins Nacos Walle
 ```
 
 ## 工作经历
 
 |          公司         |        时间       |      职位    |
 |:----------------------|:------------------|:------------|
-| 成都坚蚕科技有限公司    | 2022.11-至今      | 架构师->CTO  |
-| 深圳云积分科技有限公司  | 2020.5-2022.11    | PHP/Go      |
-| 西安闪游网络科技有限公司| 2017.04-2020.05   | PHP         |
-| 中国电信股份有限公司    | 2015.10-2017.03   | PHP         |
+| 成都 XX 科技有限公司    | 2022.11-至今      | 架构师->CTO  |
+| 深圳 XX 科技有限公司    | 2020.05-2022.11   | Go/PHP      |
+| 西安 XX 网络科技有限公司| 2017.04-2020.05   | Python/PHP  |
+| 中国 XX 股份有限公司    | 2015.10-2017.03   | PHP         |
 
-##### Header 5
+## 项目经验（部分）
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+#### 文促（独立开发）
+文促是一个文件管理平台（类似百度文库），采用Vue + Go语言开发的Web网站，支持TXT、PDF、EPUB、MOBI、Office 等格式文档的在线预览与管理，为魔豆文库的二开版。地址：[文促](http://wencu.xidukeji.com)
+**使用技术**
+* Golang   ：Gin + gRPC + GORM
+* Vue.js   : nuxt2 + element-ui
+* Database : MySQL 5.7
+**成长**
 
-###### Header 6
+#### 赏金猎人（自建团队）
+该项目为合伙自研项目，赏金猎客为紧急任务授权平台，平台的宗旨就是为用户解决难题。用户分为发布方和解决方，发布方支付解决问题佣金，解决方赚取佣金；
+●我的职责：参与股权分配、类似竞品需求调研、需要讨论，统筹前后端功能任务拆分、数据库设计、代码管理和开发等
+业绩:
+●项目价值帮助一群人省时省力解决难题，帮助另一群人利用能力和资源创造收益。
+●目前融资额已达到50w+
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#### 数据采集
 
 
-### Definition lists can be used with HTML syntax.
+#### 至尊手游 （独立后端）
+●项目概述：至尊手游App是多渠道游戏折扣充值聚合平台，主要提供一键比价、自动充值等整体游戏充值服务；
+●项目周期：2022年12月~2023年2月
+●使用框架：Laravel8
+●应用技术：Supervisor、Job、Socket、Walle打包
+●投入研发人力：3人
+●我的职责：全程参与从服务器选购到项目整体发版上线推广；包括但不限于后端整体技术及架构把控，针对开发需求调研及讨论,，前后端对接方案确认、技术设计评审、任务拆分和工期预估、参与功能开发、联调及测试，项目代码评审及发布等
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### 多商户商城 （独立开发）
+●项目概述：主要基于开源的CRME打造的一款B2B、B2C的社区化购物网平台。主要实现了线上线下一体式购物、商户及会员间层级分销、多端数据打通（H5网页、微信小程序、APP）等功能
+●项目架构：负载均衡
+●使用框架：ThinkPHP
+●应用技术：Redis、Composer、Queue、Job
+●我的职责：从需求设计到最终的产品上线，均由我独立完成
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### 会员通/CRM系统
+●项目概述：多平台、同品牌多店铺会员权益数据打通，实现数据整合和中心话运维管理等；
+●系统架构：分布式（业务）、负载均衡（物理）
+●使用框架：Laravel6
+●应用技术：Composer、Job、Redis、Walle
+●我的职责：项目需求对接、技术设计评审、任务拆分、功能开发、联调及测试、后期优化等基本项目流程。业绩:
+1.会员通公共基础功能搭建；
+2.自动化对账功能开发；
+3.项目金额超200w+;
 
-```
-The final element.
-```
+### 智慧工地/SaaS平台
+项目概况：智慧工地主要分为Web管理端（B/S）和移动应用端（C/S），其主要为企业及项目提供工地数字化管理+运维一体化解决方案，让企业实时掌控项目安全、质量、物资、机械、进度、人员、IOT智能硬件现场作业情况，及时发现问题，跟踪项目进度。通过真实数据采集，进行数据挖掘，各岗位工作量化，形成考核指标，通过大数据分析为项目重大决策提供支撑。
+应用技术：CakePHP框架、MemCache、LAMP部署
+我的职责：主要接口文档定制、代码管理及维护；用户文档数据采集、大数据分析和图表展示；人员、质量、安全等大模块功能开发等等。
+
+### 骑士助手
+项目概况：骑士助手是一款提供了海量游戏及各类应用下载的手机应用（Android及IOS），目前在各大平台及市场都可下载（含海外版）；其中致力与打造破解Android游戏平台及游戏玩家交流互动平台；其中17年成功发布海外版1.0;目前海外项目仍在运行，国内Android版日活用户达30多万，版本已迭代至7.2.6版，仍在维护运行中。
+我的职责：主要参与负责项目后台数据架构及业务逻辑设计还有后期的维护和优化;从需求分析到结构建立，业务逻辑处理到功能实现等，项目内容包含第三方库、SDK及接口的引入对接。还负责APP对应后台所有功能的搭建。
+
+### 电信315活动（2017年）
+项目概况：全西安电信用户通过315当天充值话费获取抽奖资格；参与活动抽奖。参与项目共3个人，前端一人，项目经理和我；项目起止日期：2017.02.10--2017.03.05；项目应用框架：TP5；项目用时22天，项目提前完成并交付；产品方比较满意。
+我的责任和内容：主要负责和前端对接，进行数据交互及调试；和电信公司对接支付及首付款等接口；项目过程中，要满足百万级用户的使用和调取，考虑数据处理及并发等各种情况。
+
+## 开源项目
+
+
+## 自我评价
+
+## 致谢
+
+感谢您花时间阅读我的信息，期待能有机会与您共事。
