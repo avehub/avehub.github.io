@@ -12,7 +12,7 @@ layout: default
 
 邮箱 : avework@outlook.com
 
-住址 : 西安·未央
+学校 : 北京科技大学天津学院
 
 GIT : [GitHub](https://github.com/avehub)、[码云](https://gitee.com/avegit)
 
