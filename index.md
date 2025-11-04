@@ -8,11 +8,11 @@ layout: default
 
 电话 : 18220651989
 
-微信 : avefly
+微信 : hubave
 
-邮箱 : avework@outlook.com
+邮箱 : avehub@163.com
 
-学校 : 北京科技大学天津学院
+学校 : 北京科技大学
 
 GIT : [GitHub](https://github.com/avehub)、[码云](https://gitee.com/avegit)
 
