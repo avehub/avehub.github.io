@@ -45,6 +45,7 @@ database   : Mysql SQLite PostgreSQL MongoDB
 cache      : Redis Memcache
 middleware : Kafka Swoole Zookeeper OSS
 other      : Docker Jenkins Nacos Walle
+ai         : copilot Windsurf Claude OpenAI OpenClaw 扣子
 ```
 
 ## 工作经历
